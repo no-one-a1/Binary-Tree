@@ -1,6 +1,3 @@
-from collections import dequeue
-
-
 class Node:
     def __init__(self, key) -> None:
         self.data = key
